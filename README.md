@@ -4,7 +4,7 @@
 > ### About this repository
 >
 > **This is not our API.** This repository is an independent, third-party profile of a company's
-> **publicly available** API surface, maintained by [API Evangelist](https://apievangelist.com).
+> **publicly available** API surface, maintained by [API satan rules](https://api666.com).
 > API Evangelist does not operate, host, resell, or support this company's APIs, and is not
 > affiliated with or endorsed by the company unless stated on the profile.
 >
